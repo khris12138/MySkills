@@ -74,7 +74,7 @@ Structure:
   - What is their main answer or central finding?
   - What key evidence, mechanism, or reasoning supports that answer?
   - What scope or qualification matters for understanding the answer?
-- End with one sentence stating the representative conclusion
+- End with sentences stating the representative conclusion。请注意，我其实更关心这篇文章的核心问题，以及这篇文章的结论。因此这是一个“两头大中间小”的结构。你应该确保你的结论足够简单、明确，完全能够把握文章的核心意见，具有高度概括性和凝练性，但是又不卖弄概念、堆砌概念，而是直接指出文章核心。BYI，这个结论最好是能够直接插入到“文献综述”当中的一段描述。让其他读者也能通过“xxxxx（某人，年份）”这样子的形式一下就知道这篇文章的主要结论。
 - 最重要的一点是，这些bullet point不应该无序地连接、列举，应该遵守显著的逻辑A到B到C，它应当始于Step Two的问题，然后落脚到作者的结论。在这一过程中，你应当严肃避免非核心概念的堆砌，确保你这些bullet point勾画出一个清晰的逻辑链条，最后导出到作者对于问题的回答。
 
 **What to include:** Only the concepts, methods, and findings necessary to understand how the question is answered. For each key concept, give one clear Chinese explanation of what it means in this article and why it matters for the answer.
