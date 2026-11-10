@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Writing"
+  short_description: "面向社会学论文写作与博士论文修订完善的学术表达助手"
+  default_prompt: "Use $academic-writing to write or revise sociology doctoral prose according to my requirements."
